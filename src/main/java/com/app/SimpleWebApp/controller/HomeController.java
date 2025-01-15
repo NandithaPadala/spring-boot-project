@@ -9,7 +9,7 @@ public class HomeController{
 
     @RequestMapping("/")
     public String greet(){
-        return "!!!!   Welcome to Web Application !!!";
+        return "!!!!  Welcome to Web Application !!!";
     }
 
 
